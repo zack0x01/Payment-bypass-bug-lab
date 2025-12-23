@@ -1,6 +1,7 @@
 # Payment Bypass Techniques Lab
 
 Learn how to find and exploit payment bypass vulnerabilities. This lab teaches you three common techniques used in bug bounty hunting.
+<img width="1920" height="965" alt="adad" src="https://github.com/user-attachments/assets/e09a4904-193f-4ece-96eb-157ae9d2b55e" />
 
 ## What You'll Learn
 
