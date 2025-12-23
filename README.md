@@ -59,6 +59,13 @@ bash stop-lab.sh
 5. Forward the response
 6. You're now a premium user! 👑
 
+## Connect With Me
+
+- 💻 **Learn Bug Bounty from zack0x01**: [lureo.shop](https://lureo.shop)
+- 📺 **YouTube**: [@zack0x01](https://youtube.com/@zack0x01)
+- 🐦 **Twitter**: [@zack0x01](https://twitter.com/zack0x01)
+- 📷 **Instagram**: [@zack0x01](https://instagram.com/zack0x01)
+
 ## Important Note
 
 This lab is for **learning only**. Never try these techniques on real websites without permission. Always get authorization before testing.
